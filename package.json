@@ -1,0 +1,12 @@
+{
+  "name": "mara-quest-20260624b",
+  "version": "1.0.0",
+  "description": "Wildlife conservation educational game",
+  "main": "game.js",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  }
+}
